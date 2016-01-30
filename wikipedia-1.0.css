@@ -1,0 +1,61 @@
+@import url(https://fonts.googleapis.com/css?family=Gentium+Basic:400,400italic,700|Lato:400,700,400italic);
+/* General */
+a {
+    color: #C33333 !important;
+}
+
+body {
+    background: #FFF !important;
+    font-family: 'Lato' !important;
+}
+
+/* White background */
+#mw-head, .infobox, .thumbinner, #ca-nstab-main, #ca-talk, #ca-viewsource, #ca-history {
+    background: #FFF !important;
+}
+
+/* No blue borders */
+.vectorTabs, #ca-nstab-main span, #ca-talk span, #ca-view span, #ca-viewsource span, #ca-edit span, #ca-history span {
+    background: #FFF !important;
+}
+
+/* Links */
+                        
+
+/* Sidebar */
+.portal {
+    background: #FFF !important;
+    color: #555 !important;
+}
+
+.portal a {
+    color: inherit !important;
+}
+
+.portal h3 {
+    font-size: 1em !important;
+    color: inherit !important;
+}
+
+.portal .body {
+    margin-left: 0.25em !important;
+    font-size: 1em !important;
+}
+
+/* Table of contents */
+#toc {
+    background: none !important;
+    border: none !important;
+}
+
+/* Content */
+#content {
+    border: none !important;
+}
+
+.firstHeading {
+    font-size: 2.8em !important;
+    font-family: 'Gentium Basic' !important;
+    border: none !important;
+}
+
