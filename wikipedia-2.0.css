@@ -204,6 +204,7 @@ h3 {
 }
 
 /* No blue borders */
-.vectorTabs, #ca-nstab-main span, #ca-talk span, #ca-view span, #ca-viewsource span, #ca-edit span, #ca-history span {
+.vectorTabs, #ca-nstab-main span, #ca-talk span, #ca-view span, #ca-ve-edit span, #ca-viewsource span, #ca-edit span, #ca-history span {
     background: #FFF !important;
 }
+
